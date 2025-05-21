@@ -50,7 +50,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(https://i.imgur.com/C1YPtca.png);
+    background: url(https://imgur.com/LPOGsTW.png);
     width: 24px;
     height: 40px;
 }
@@ -126,7 +126,7 @@ start and select buttons. */
     position: absolute;
     width: 54px;
     height: 54px;
-    background: url(https://i.imgur.com/bpt0MPg.png);
+    background: url(https://imgur.com/XBpwCwA.png);
 }
 .custom .button.pressed{
     background-position-y: -56px;
